@@ -1,0 +1,24 @@
+{
+  "name": "friend-finder---node-and-express-servers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maryarzumanyan/Friend-Finder---Node-and-Express-Servers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maryarzumanyan/Friend-Finder---Node-and-Express-Servers/issues"
+  },
+  "homepage": "https://github.com/maryarzumanyan/Friend-Finder---Node-and-Express-Servers#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  }
+}
